@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nikita. Born & raised in Russia <img src="https://api.iconify.design/flag:ru-4x3.svg" height="15" alt="Russia" />, currently living in Canada <img src="https://api.iconify.design/flag:ca-4x3.svg" height="15" alt="Canada" />.<br><br>Actually I'm a surgeon. 7 years in Medical Academy. Being a developer was my hobby.</p>
+<p align="left">I'm Nikita. Born & raised in Russia <img src="https://api.iconify.design/flag:ru-4x3.svg" height="15" alt="Russia" />, currently living in Canada <img src="https://api.iconify.design/flag:ca-4x3.svg" height="15" alt="Canada" />.<br><br>Developing is my passion.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've been programming since 2020.<br><br>📚 I specialize in web development, but have also experimented in Data Analytics.<br><br>🎯 I'm currently active in FullStack web development, mostly Next.js.</p>
+<p align="left">✨ I've been programming since 2013.<br><br>📚 I specialize in web development, but have also experimented in Data Analytics.<br><br>🎯 I'm currently active as Senior FullStack developer.</p>
 
 ###
 
